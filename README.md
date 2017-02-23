@@ -4,11 +4,11 @@ I was exploring different R packages, and came across one called `highcharter`. 
 
 # Set Up
 
-The original inspiration for this graph seeing a Tableau rendering of the same data created by reddit user /u/... I first decided to recreate the graph in R using `ggplot2`.
+The original inspiration for this graph came from seeing a Tableau rendering of the same data created by reddit user /u/... I first decided to recreate the graph in R using `ggplot2`.
 
 # GGPLOT
 
-Image
+![Global Temperature Graph](https://github.com/Mako21/R/blob/master/TempGraph1.png)
 
 ```
 require(ggplot2)
