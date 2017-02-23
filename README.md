@@ -30,5 +30,7 @@ ggsave("TempGraph1.png", height=5, width=8,dpi=300)
 
 ```
 
-# Highcarter Example
+# Highcharter Example
+
+![HighCharts](https://github.com/Mako21/R/blob/master/chart%20(1).svg)
 
