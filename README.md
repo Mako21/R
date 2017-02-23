@@ -32,7 +32,6 @@ ggsave("TempGraph1.png", height=5, width=8,dpi=300)
 
 # Highcharter Example
 
-<a href="https://github.com/Mako21/">
- <img src="https://github.com/Mako21/R/blob/master/chart%20(1).svg" width="100%" height= "300">
-</a>
+![Alt text](https://github.com/Mako21/Mako21.github.io/blob/master/chart%20(1).svg)
+<img src="https://github.com/Mako21/Mako21.github.io/blob/master/chart%20(1).svg">
 
